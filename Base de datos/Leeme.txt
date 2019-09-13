@@ -1,0 +1,4 @@
+Credenciales por defecto:
+
+Usuario: ADMIN
+Clave:	 PASSWORD
